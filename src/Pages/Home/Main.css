@@ -1,0 +1,45 @@
+.home{
+    background-color: #1ABC9C;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+    justify-content: center !important;
+    margin-top: 86px;
+    min-height: calc(-106px + 100vh);
+}
+
+.homeContent{
+    text-align: center;
+}
+
+.homeContent img{
+    width: 250px !important;
+    height: 265px !important;
+    margin-bottom: 16px;
+}
+
+.homeContentText{
+    text-align: center !important;
+    color: white;
+    padding-top: 24px !important;
+}
+
+.homeContentText h2{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 16px;
+}
+
+.homeContentText i{
+    color: white !important;
+    width: 18px !important;
+    height: 18px !important;
+}
+
+.Line{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}

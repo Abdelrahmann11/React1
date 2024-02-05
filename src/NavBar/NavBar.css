@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #2C3E50;
+    transition: .6s padding !important;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-size: 32px !important;
+    font-weight: bolder !important;
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: 700 !important;
+    text-transform: uppercase;
+}

@@ -1,0 +1,37 @@
+.Contact{
+    color: #2C3E50;
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+    justify-content: center !important;
+    margin-top: 93px;
+    min-height: calc(-106px + 100vh);
+}
+
+.ContactContent{
+    text-align: center;
+}
+
+.ContactContentText{
+    text-align: center !important;
+    /* color: white; */
+    padding-top: 24px !important;
+}
+
+.ContactContentText h2{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 96px;
+    color: #2C3E50;
+}
+
+.ContactLine{
+    height: 4px;
+    width: 80px;
+    background-color: #2C3E50;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
